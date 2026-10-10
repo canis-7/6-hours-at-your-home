@@ -1,0 +1,13 @@
+* text=auto
+*.cpp text eol=crlf
+*.h text eol=crlf
+*.cs text eol=crlf
+*.ini text eol=crlf
+*.bat text eol=crlf
+*.md text eol=lf
+*.py text eol=lf
+*.uproject text eol=lf
+*.uasset binary
+*.umap binary
+*.mp3 binary
+*.wav binary
